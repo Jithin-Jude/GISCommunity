@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4B088A	</color>
+    <color name="colorPrimaryDark">#4B088A	</color>
+    <color name="colorAccent">#4B088A</color>
+    <color name="hyperLink">#0000EE </color>
+</resources>

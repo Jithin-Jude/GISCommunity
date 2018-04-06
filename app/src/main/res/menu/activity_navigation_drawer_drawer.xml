@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_person_black_transparent_24dp"
+            android:title="Members" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_message_black_24dp"
+            android:title="Stories" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_code_black_24dp"
+            android:title="Projects" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_stars_black_24dp"
+            android:title="Challenges" />
+        <item
+            android:id="@+id/nav_manage2"
+            android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+            android:title="Quizzes" />
+        <item
+            android:id="@+id/nav_manage3"
+            android:icon="@drawable/ic_group_black_24dp"
+            android:title="Community" />
+
+    </group>
+
+    <item android:title="Preference">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Settings" />
+
+        </menu>
+    </item>
+
+</menu>

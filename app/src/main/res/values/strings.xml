@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GIS Community</string>
+    <string name="title_activity_navigation_drawer">Members</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">User Name</string>
+    <string name="nav_header_subtitle">username@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="country_prompt">Choose your track</string>
+
+    <string-array name="country_arrays">
+        <item>Android-Dev Basics</item>
+        <item>Android-Dev Intermediate</item>
+        <item>Web-Dev Basic</item>
+        <item>Web-Dev Intermediate</item>
+    </string-array>
+</resources>
